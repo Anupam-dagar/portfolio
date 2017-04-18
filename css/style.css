@@ -526,7 +526,8 @@ p {
 .hero-content{
   position: absolute;
   text-align: center;
-  min-width: 300px;
+  min-width: 412px;
+  min-height: 300px;
   left: 50%;
   top: 50%;
   padding: 65px;
@@ -912,7 +913,7 @@ ul.portfolio-image li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/reza.jpg');
+  background: url('../images/chinu.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
